@@ -1,0 +1,38 @@
+{
+  "name": "KENCANA Steel - Toko Besi dan Baja Ringan wilayah Brebes",
+  "short_name": "KENCANA Steel",
+  "start_url": "https://kencanabrebes.github.io/steel/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#ac3a3b",
+  "description": "Toko Besi | Menjual Besi Hollow, Pipa Besi dan Baja Ringan | Harga Terjangkau | Lokasi di Wilayah Kabupaten Brebes Jawa Tengah | Bukan Pabrik, Distributor, Agen maupun Mega Baja | Tidak Menjual Besi Beton.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-RscMUDwqJS8/XTlcSjL1TMI/AAAAAAAAAzY/ruEbuSJy4iUewACtQJL_eq0AJTGS3rH3QCLcBGAs/s48/3_Favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RscMUDwqJS8/XTlcSjL1TMI/AAAAAAAAAzY/ruEbuSJy4iUewACtQJL_eq0AJTGS3rH3QCLcBGAs/s72/3_Favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RscMUDwqJS8/XTlcSjL1TMI/AAAAAAAAAzY/ruEbuSJy4iUewACtQJL_eq0AJTGS3rH3QCLcBGAs/s96/3_Favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RscMUDwqJS8/XTlcSjL1TMI/AAAAAAAAAzY/ruEbuSJy4iUewACtQJL_eq0AJTGS3rH3QCLcBGAs/s144/3_Favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RscMUDwqJS8/XTlcSjL1TMI/AAAAAAAAAzY/ruEbuSJy4iUewACtQJL_eq0AJTGS3rH3QCLcBGAs/s168/3_Favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RscMUDwqJS8/XTlcSjL1TMI/AAAAAAAAAzY/ruEbuSJy4iUewACtQJL_eq0AJTGS3rH3QCLcBGAs/s192/3_Favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RscMUDwqJS8/XTlcSjL1TMI/AAAAAAAAAzY/ruEbuSJy4iUewACtQJL_eq0AJTGS3rH3QCLcBGAs/s512/3_Favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
